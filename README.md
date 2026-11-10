@@ -12,7 +12,7 @@ Concevoir une application répartie avec Java RMI. Le serveur convertit un monta
 
 ## Étape 1 : Préparation de l'espace de travail
 
-![Structure des projets de conversion](images/01-structure-conversion.png)
+![Structure des projets de conversion](images/02-structure-banque.png)
 
 ## Étape 2 : Développement du serveur
 
@@ -54,7 +54,7 @@ Développer une application répartie qui gère des comptes bancaires. Un compte
 
 Création des projets `RMIBanque_Server` et `RMIBanque_Client`.
 
-![Structure des projets de la banque](images/02-structure-banque.png)
+![Structure des projets de la banque](images/01-structure-conversion.png)
 
 ## Étape 2 : Développement du serveur
 
